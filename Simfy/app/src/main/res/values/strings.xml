@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Simfy</string>
+    <string name="action_settings">Settings</string>
+
+    <array name="images_array">
+        <item>https://placeholdit.imgix.net/~text?txtsize=20&amp;txt=Track1&amp;w=200&amp;h=200</item>
+        <item>https://placeholdit.imgix.net/~text?txtsize=20&amp;txt=Track2&amp;w=200&amp;h=200</item>
+        <item>https://placeholdit.imgix.net/~text?txtsize=20&amp;txt=Track3&amp;w=200&amp;h=200</item>
+        <item>https://placeholdit.imgix.net/~text?txtsize=20&amp;txt=Track4&amp;w=200&amp;h=200</item>
+        <item>https://placeholdit.imgix.net/~text?txtsize=20&amp;txt=Track5&amp;w=200&amp;h=200</item>
+        <item>https://placeholdit.imgix.net/~text?txtsize=20&amp;txt=Track6&amp;w=200&amp;h=200</item>
+        <item>https://placeholdit.imgix.net/~text?txtsize=20&amp;txt=Track7&amp;w=200&amp;h=200</item>
+        <item>https://placeholdit.imgix.net/~text?txtsize=20&amp;txt=Track8&amp;w=200&amp;h=200</item>
+        <item>https://placeholdit.imgix.net/~text?txtsize=20&amp;txt=Track9&amp;w=200&amp;h=200</item>
+        <item>https://placeholdit.imgix.net/~text?txtsize=20&amp;txt=Track10&amp;w=200&amp;h=200</item>
+    </array>
+    <string name="very_long_description">Lorem ipsum dolor sit amet, ipsum mus eu enim viverra, in consectetuer aptent convallis. Sodales cras, proin nullam sed quam tristique neque, laoreet libero donec nostra, dui montes donec. Velit aenean curabitur, vitae accumsan nec quis elit eu ante, magna suspendisse lorem ut, rhoncus vivamus iaculis quis dapibus feugiat. Fermentum ipsum quis enim tempor quis amet, consequuntur et auctor urna, leo habitasse tempus maecenas erat dui, fringilla nulla. Sit vehicula mauris sed pellentesque, a vulputate vulputate semper culpa tincidunt quis.</string>
+    <string name="close">Close</string>
+    <string name="play">Play</string>
+
+</resources>
