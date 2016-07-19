@@ -1,4 +1,4 @@
-package upile.simfy;
+package upile.simfy.adapter;
 
 import android.app.AlertDialog;
 import android.content.Context;
@@ -18,6 +18,9 @@ import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import upile.simfy.R;
+import upile.simfy.models.ListItem;
 
 /**
  * Created by Upile.Milanzi on 7/18/2016.

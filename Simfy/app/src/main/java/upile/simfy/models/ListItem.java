@@ -1,4 +1,4 @@
-package upile.simfy;
+package upile.simfy.models;
 
 /**
  * Created by Upile.Milanzi on 7/18/2016.
